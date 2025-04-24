@@ -27,10 +27,12 @@ jobs:
       - name: Generate light & dark SVG-only Snakes
         uses: lowlighter/snk@v3
         with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              output/github-snake-light.svg?palette=github-light&color_snake=89,65,0
-              output/github-snake-dark.svg?palette=github-dark&color_snake=230,178,186
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            # light-mode snake (RGB 89,65,0)
+            output/github-snake-light.svg?palette=github-light&color_snake=89,65,0
+            # dark-mode snake (uses GitHub’s dark palette)
+            output/github-snake-dark.svg?palette=github-dark&color_snake=230,178,186
 
 
       - name: Commit updated snakes
