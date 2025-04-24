@@ -22,5 +22,5 @@
 <img
     src="https://raw.githubusercontent.com/m-sowmya7/m-sowmya7/main/output/github-snake-light.svg"
     data-dark-theme="https://raw.githubusercontent.com/m-sowmya7/m-sowmya7/main/output/github-snake-dark.svg"
-    alt="github-snake"
+    alt="GitHub contribution snake animation"
   />
