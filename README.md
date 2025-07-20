@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **full stack projects using MERN**
 
-- 🌱 I’m currently learning **Web scraping**
-
 - 👯 I’m looking to collaborate on **frontend projects using React and Next.js**
 
 - 📫 How to reach me **sowmyamls2005@gmail.com**
